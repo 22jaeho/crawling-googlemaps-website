@@ -17,3 +17,6 @@ https://github.com/22jaeho/crawling-googlemaps-website/blob/main/Project.pdf
 
 ### 영상
 https://www.youtube.com/watch?v=Q0EwzTfMIeM
+
+### 수상
+![python](https://user-images.githubusercontent.com/71754176/119084348-937a4500-ba3c-11eb-945d-c1e0616a31ba.jpg)
