@@ -5,7 +5,7 @@
 
 ### 개발 환경
   * 사용 언어 : HTML5 & CSS3 & JavaScript / Python3
-  * 개발 환경 : Jupyter Notebook / Visual Studio Code / Eclipse
+  * 개발 도구 : Jupyter Notebook / Visual Studio Code / Eclipse
   * 데이터베이스 : MariaDB
 
 
